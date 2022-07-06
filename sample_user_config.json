@@ -5,6 +5,7 @@
         "sn": "DFZJZCGVT984N",      
         "mac1": "0211321F40B5",
         "mac2": "0211321F4066",
+        "netif_num": "2",
         "DiskIdMap": "00",
         "SataPortMap": "1",
         "SasIdxMap": "0"

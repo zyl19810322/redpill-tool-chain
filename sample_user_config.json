@@ -6,8 +6,8 @@
         "mac1": "0211321F40B5",
         "mac2": "0211321F4066",
         "netif_num": "2",
-        "DiskIdMap": "000103",
-        "SataPortMap": "124",
+        "DiskIdMap": "0200",
+        "SataPortMap": "22",
         "SasIdxMap": "0"
     },
     "synoinfo": {},
